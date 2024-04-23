@@ -1,0 +1,17 @@
+
+.item-list{
+list-style-type: none;
+padding: 0;
+margin-bottom: 40px;
+/* background-color: aqua; */
+}
+
+.item-list li{
+    background: #fff;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12);
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 0;
+    position: relative;
+}
